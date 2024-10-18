@@ -1,4 +1,4 @@
-## (STILL ON WIP, Padding and Texture problems At this moment.)
+## (STILL ON WIP, Padding and Texture problems at this moment.)
 
 Credits (Original Extension, not working for the moment.)
 
